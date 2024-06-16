@@ -4,23 +4,22 @@ PyTorch implementation of Image Defect Detection Networks.
 ![Alt text](data/main2.png?raw=true "Title") 
 
 **Prerequisites:**
-You can execute the following command to get the environment configuration.
-# pip install -r requirements.txt
-
-matplotlib>=3.2.2
-numpy>=1.18.5
-opencv-python>=4.1.2
-PyYAML>=5.3.1
-requests>=2.23.0
-scipy>=1.4.1
-tqdm>=4.41.0
-tensorboard>=2.4.1
-pandas>=1.1.4
-seaborn>=0.11.0
-pyqt5
-flatbuffers
-Pillow==8.4.0
-nvitop
+You can execute the following command to get the environment configuration：
+pip install -r requirements.txt
+1. matplotlib>=3.2.2
+2. numpy>=1.18.5
+3. opencv-python>=4.1.2
+4. PyYAML>=5.3.1
+5. requests>=2.23.0
+6. scipy>=1.4.1
+7. tqdm>=4.41.0
+8. tensorboard>=2.4.1
+9. pandas>=1.1.4
+10. seaborn>=0.11.0
+11. pyqt5
+12. flatbuffers
+13. Pillow==8.4.0
+14. nvitop
 
 **Preparation:**
 1. Create folder "data".

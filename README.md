@@ -1,6 +1,7 @@
 # Wind-Turbine-Blade-Defect-Detection-with-a-Semi-supervised-Deep-Learning-Framework
 PyTorch implementation of Image Defect Detection Networks. 
-![Alt text](results/main.png?raw=true "Title")  
+![Alt text](data/main1.png?raw=true "Title") 
+![Alt text](data/main2.png?raw=true "Title") 
 
 **Prerequisites:**
 You can execute the following command to get the environment configuration.
@@ -36,4 +37,4 @@ If you want to change some of the hyperparameters, you can change them directly 
 **Evaluation:**
 Some qualitative results are shown below:
 
-![Alt text](results/test1.png?raw=true "Title")  
+![Alt text](data/test1.png?raw=true "Title")  
